@@ -1,4 +1,5 @@
-# Takehome_challenge_Relax_Inc
+# Takehome_challenge_Relax_Inc 
+### Solution by: Fariha Baloch
 This repo contains code for the take home challenge and submitted to Springboard in order to fullfill conditions for receiving data science certifications
 
 The folder 'notebooks' contain the work done in jupyter notebook
